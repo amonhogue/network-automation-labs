@@ -1,0 +1,16 @@
+{
+  "data": [
+    {
+      "uuid": "R1",
+      "deviceModel": "vEdge-CSR",
+      "system-ip": "10.0.0.1",
+      "site-id": "100"
+    },
+    {
+      "uuid": "R2",
+      "deviceModel": "vEdge-CSR",
+      "system-ip": "10.0.0.2",
+      "site-id": "200"
+    }
+  ]
+}

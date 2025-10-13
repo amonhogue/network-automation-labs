@@ -1,0 +1,13 @@
+requests
+python-dotenv
+jinja2
+pyyaml
+textfsm
+rich
+pandas
+pytest
+nornir==3.4.0
+nornir_netmiko==1.0.0
+nornir_napalm==1.0.0
+netmiko
+napalm

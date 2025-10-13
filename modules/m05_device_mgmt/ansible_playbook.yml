@@ -1,0 +1,10 @@
+---
+- name: Configure hostname with IOS XE
+  hosts: routers
+  gather_facts: no
+  connection: network_cli
+  tasks:
+    - name: Set hostname
+      ios_config:
+        lines:
+          - hostname LAB-ROUTER
