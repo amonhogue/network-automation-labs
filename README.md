@@ -1,6 +1,6 @@
 # Network Automation Labs
 
-**Learn Python the network engineer’s way** — every lab uses constructs you already know (interfaces, ACLs, OSPF, VLANs, APIs). Run locally or in **GitHub Codespaces** with zero setup.
+**Learn Python the network engineer’s way** - every lab uses constructs you already know (interfaces, ACLs, OSPF, VLANs, APIs). Run locally or in **GitHub Codespaces** with zero setup.
 
 ## Run in Codespaces (1‑click)
 1) Push this repo to GitHub.
