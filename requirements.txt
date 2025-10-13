@@ -9,7 +9,5 @@ nornir==3.4.0
 nornir-netmiko==1.0.0
 
 # multivendor abstraction
-napalm==4.1.0
-
-# (optional plugin; pinned to a version that exists & works)
+napalm>=5,<6
 nornir-napalm==0.5.0
