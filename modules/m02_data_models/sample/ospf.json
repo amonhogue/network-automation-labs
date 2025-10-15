@@ -1,0 +1,12 @@
+{
+  "ospf": {
+    "process_id": "1",
+    "areas": [
+      { "area_id": "0.0.0.0", "networks": ["10.0.0.0/8", "192.168.0.0/16"] }
+    ],
+    "interfaces": [
+      { "name": "GigabitEthernet0/0", "area_id": "0.0.0.0", "network_type": "point-to-point" },
+      { "name": "GigabitEthernet0/1", "area_id": "0.0.0.0", "network_type": "broadcast" }
+    ]
+  }
+}
