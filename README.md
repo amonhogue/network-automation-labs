@@ -1,4 +1,7 @@
 # Network Automation Labs
+![Build](https://github.com/amonhogue/network-automation-labs/actions/workflows/ci.yml/badge.svg)
+![Python](https://img.shields.io/badge/python-3.11-blue)
+![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
 
 **Learn Python the network engineer’s way** - every lab uses constructs you already know (interfaces, ACLs, OSPF, VLANs, APIs). Run locally or in **GitHub Codespaces** with zero setup.
 
